@@ -4835,12 +4835,6 @@
 		)
 	)
 	(junction
-		(at 62.23 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "094e0a4a-6b90-42fe-9e2e-e5097088ee25")
-	)
-	(junction
 		(at 134.62 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4851,6 +4845,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e3ee5a4-f918-454a-bffe-7c28b87b0708")
+	)
+	(junction
+		(at 62.23 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ea130fb-c141-44b3-b0fe-8d7e5e9be1d0")
 	)
 	(junction
 		(at 254 76.2)
@@ -4883,12 +4883,6 @@
 		(uuid "1817cd45-ceda-4c49-966b-6d387f8aa98c")
 	)
 	(junction
-		(at 49.53 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1cc7c39c-2902-4b3e-9601-f0bf2de1a245")
-	)
-	(junction
 		(at 232.41 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4919,12 +4913,6 @@
 		(uuid "23dfa8c0-6d2b-40e5-9722-62d6570e6e4b")
 	)
 	(junction
-		(at 49.53 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "24bc00a3-9849-430c-96df-afb02396cc3e")
-	)
-	(junction
 		(at 252.73 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4943,12 +4931,6 @@
 		(uuid "2a939d01-0eb7-45a1-81ea-48fa76a16bb8")
 	)
 	(junction
-		(at 59.69 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c006092-6e71-407a-8e40-9034313d5675")
-	)
-	(junction
 		(at 34.29 17.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4961,28 +4943,10 @@
 		(uuid "2f053421-020e-4366-91f5-40d4321be131")
 	)
 	(junction
-		(at 54.61 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2f1c6a1d-725b-41b4-bf81-4c1a387eda66")
-	)
-	(junction
-		(at 67.31 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2f95d29e-381c-45c3-9749-7474f9304dd4")
-	)
-	(junction
 		(at 49.53 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30a78000-e65f-4457-b764-86885292f372")
-	)
-	(junction
-		(at 54.61 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3130286f-5837-4983-b9cc-9dc43cae2131")
 	)
 	(junction
 		(at 31.75 154.94)
@@ -5027,12 +4991,6 @@
 		(uuid "3a961d2f-ebb5-4fcf-baef-34542b086e64")
 	)
 	(junction
-		(at 57.15 171.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3cf25a08-b022-4ac8-a6ea-b5975d5cdbed")
-	)
-	(junction
 		(at 49.53 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5063,12 +5021,6 @@
 		(uuid "4899a21c-068c-42bf-81de-c1159756f1e0")
 	)
 	(junction
-		(at 62.23 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4991d511-b9a8-4996-91e0-351ff312504b")
-	)
-	(junction
 		(at 148.59 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5087,12 +5039,6 @@
 		(uuid "4ba5566a-a657-4cb1-b9f1-8b3b8a1032ae")
 	)
 	(junction
-		(at 62.23 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c4d2821-bf60-4d60-a53a-8432ef14ffdf")
-	)
-	(junction
 		(at 82.55 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5109,12 +5055,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bbd8c19-5447-4f02-9a5c-4ed39f9d85e3")
-	)
-	(junction
-		(at 62.23 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60f07c52-617f-47bc-ae07-277cd08d4196")
 	)
 	(junction
 		(at 62.23 21.59)
@@ -5159,18 +5099,6 @@
 		(uuid "6d7c074e-b7b0-4bfa-a7bc-a1508b970676")
 	)
 	(junction
-		(at 49.53 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6fb77796-5456-42b8-a109-4cb93d118395")
-	)
-	(junction
-		(at 67.31 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "717b17e3-eeba-405a-9186-d90f273198e8")
-	)
-	(junction
 		(at 82.55 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5189,12 +5117,6 @@
 		(uuid "76d6709f-07fd-4767-9f2a-c71a41acadc0")
 	)
 	(junction
-		(at 49.53 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7955bb85-68cb-4cf2-aa4d-ba94e65fc2db")
-	)
-	(junction
 		(at 236.22 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5211,12 +5133,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c1ffbe2-3f47-4cc0-8e8a-1dadb975e3f2")
-	)
-	(junction
-		(at 57.15 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7d6c3804-f2f9-4130-8fb5-9b89e34df061")
 	)
 	(junction
 		(at 40.64 125.73)
@@ -5243,22 +5159,10 @@
 		(uuid "84fc8872-4ccb-4a34-ae45-24158e4a922d")
 	)
 	(junction
-		(at 62.23 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "850f72b4-bc23-4cab-a063-33ed4a4b5f23")
-	)
-	(junction
 		(at 128.27 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8daaad39-27d1-4da8-ba81-92a5e398be32")
-	)
-	(junction
-		(at 57.15 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8fbdf886-832b-4015-9e8d-be2494063c16")
 	)
 	(junction
 		(at 168.91 22.86)
@@ -5283,12 +5187,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "98ada7d5-8e31-49f1-ac6a-dddca7c47e41")
-	)
-	(junction
-		(at 59.69 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b96ca71-f6fe-4a14-8c1c-831ad00eac7f")
 	)
 	(junction
 		(at 121.92 140.97)
@@ -5327,22 +5225,10 @@
 		(uuid "a3f04b0d-67bc-4f10-90c1-d042e3c3e2b4")
 	)
 	(junction
-		(at 59.69 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a801c1a0-2e96-4531-9821-7c85a4bbeb69")
-	)
-	(junction
 		(at 52.07 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a855f1e4-0d5a-4163-a267-06306f17c82b")
-	)
-	(junction
-		(at 57.15 173.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9483369-91ce-4b60-bc2c-e528600a87ba")
 	)
 	(junction
 		(at 121.92 151.13)
@@ -5355,12 +5241,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab0efdd5-8b8a-4cde-a411-e29a48305783")
-	)
-	(junction
-		(at 54.61 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab881ff4-1de9-487f-a221-5e7343c5736d")
 	)
 	(junction
 		(at 46.99 144.78)
@@ -5399,12 +5279,6 @@
 		(uuid "b1d4ef8b-52a0-448f-918c-181ed53818ff")
 	)
 	(junction
-		(at 49.53 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b3d6e5cd-e8d5-4a1e-8a90-da560984e51b")
-	)
-	(junction
 		(at 62.23 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5415,12 +5289,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "baf567e9-9714-47ef-a759-4e1e126798fd")
-	)
-	(junction
-		(at 57.15 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c1a55cd8-850e-4e55-939c-c7d419a0f7ea")
 	)
 	(junction
 		(at 209.55 22.86)
@@ -5439,12 +5307,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c44ddc82-d398-443c-a45c-cd253a3d4a80")
-	)
-	(junction
-		(at 49.53 171.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c48d9908-5759-4049-82de-75721f0a4909")
 	)
 	(junction
 		(at 261.62 163.83)
@@ -5477,18 +5339,6 @@
 		(uuid "d4d501aa-439c-47ad-9930-83538704b0c3")
 	)
 	(junction
-		(at 67.31 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4f9b8a6-1e2b-4159-8690-3aa54274efed")
-	)
-	(junction
-		(at 57.15 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d5db0671-c4de-450c-924b-db39c9e175a0")
-	)
-	(junction
 		(at 49.53 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5507,22 +5357,10 @@
 		(uuid "da700d83-5b71-4b72-880c-71001c28834a")
 	)
 	(junction
-		(at 54.61 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc438027-7869-4db6-bf5f-df34499eb8a3")
-	)
-	(junction
 		(at 248.92 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd17e695-ff22-48ab-99b7-244f692a3d1f")
-	)
-	(junction
-		(at 62.23 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e1f26239-187d-48ba-923a-1eee244a73b7")
 	)
 	(junction
 		(at 76.2 21.59)
@@ -5535,12 +5373,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e3e2345f-503f-4337-8899-83bfcdc25d5c")
-	)
-	(junction
-		(at 57.15 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4af7763-ad66-4ae2-a5b6-932fd94ea14b")
 	)
 	(junction
 		(at 48.26 175.26)
@@ -5579,22 +5411,10 @@
 		(uuid "e965c760-f717-4988-a2c9-a0578f737118")
 	)
 	(junction
-		(at 49.53 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9c24ca2-cd83-4219-96da-c70fc836f553")
-	)
-	(junction
 		(at 49.53 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea7a62f0-87aa-4a3a-b405-f1d3b3cb6159")
-	)
-	(junction
-		(at 59.69 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f014ebf4-082d-41bd-9392-f04f66652bfa")
 	)
 	(junction
 		(at 59.69 157.48)
@@ -5603,28 +5423,10 @@
 		(uuid "f2831772-9b4d-4fd5-b713-27f294263ecd")
 	)
 	(junction
-		(at 57.15 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f4d59c02-1f3e-46bc-97ca-9d3062ca520e")
-	)
-	(junction
-		(at 49.53 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f5fd8ce6-ad05-4162-bd0c-0512b0745fc5")
-	)
-	(junction
 		(at 121.92 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6538b17-f925-49ba-a636-c401a2151b89")
-	)
-	(junction
-		(at 67.31 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f697e955-c79b-4648-a39f-860b6cfebff5")
 	)
 	(junction
 		(at 116.84 33.02)
@@ -5774,16 +5576,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 166.37) (xy 57.15 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "040cf564-415f-41d9-9353-7b054c38e359")
-	)
-	(wire
-		(pts
 			(xy 260.35 105.41) (xy 260.35 101.6)
 		)
 		(stroke
@@ -5801,16 +5593,6 @@
 			(type default)
 		)
 		(uuid "05777154-579f-44b9-b489-e6e4ae6edbb7")
-	)
-	(wire
-		(pts
-			(xy 57.15 134.62) (xy 57.15 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06d37d45-f5b0-4973-b82c-3b3d156db40d")
 	)
 	(wire
 		(pts
@@ -6011,16 +5793,6 @@
 			(type default)
 		)
 		(uuid "0e3de15f-c09a-4517-8520-93510f9bfa78")
-	)
-	(wire
-		(pts
-			(xy 67.31 113.03) (xy 67.31 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e3e95fa-4db4-446c-b9e8-0c04b3451789")
 	)
 	(wire
 		(pts
@@ -6384,16 +6156,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 166.37) (xy 49.53 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f2e00c5-d6ed-4091-baf2-fabc8ba46fd2")
-	)
-	(wire
-		(pts
 			(xy 57.15 173.99) (xy 60.96 173.99)
 		)
 		(stroke
@@ -6461,16 +6223,6 @@
 			(type default)
 		)
 		(uuid "24ba0a25-73be-43c0-9fc3-5d0e3b0087e9")
-	)
-	(wire
-		(pts
-			(xy 67.31 105.41) (xy 67.31 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2541f493-ceb2-4d3d-9c7c-653af50feefa")
 	)
 	(wire
 		(pts
@@ -6634,7 +6386,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 83.82) (xy 62.23 85.09)
+			(xy 62.23 71.12) (xy 62.23 85.09)
 		)
 		(stroke
 			(width 0)
@@ -6691,16 +6443,6 @@
 			(type default)
 		)
 		(uuid "2e92ed1e-923f-4f3c-80b0-adf6b3bfd849")
-	)
-	(wire
-		(pts
-			(xy 49.53 137.16) (xy 49.53 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f50f6ea-82e6-45f6-b7bb-a04bccce9d4d")
 	)
 	(wire
 		(pts
@@ -6791,16 +6533,6 @@
 			(type default)
 		)
 		(uuid "32336515-24d5-40d5-9051-c004862ecb4f")
-	)
-	(wire
-		(pts
-			(xy 54.61 73.66) (xy 54.61 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32655c58-e041-478d-92c6-1f3741f73cd3")
 	)
 	(wire
 		(pts
@@ -6904,16 +6636,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 139.7) (xy 49.53 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38058c7d-b1d2-4dc6-8331-811ac318bd76")
-	)
-	(wire
-		(pts
 			(xy 59.69 156.21) (xy 59.69 157.48)
 		)
 		(stroke
@@ -7014,16 +6736,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 73.66) (xy 62.23 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a6aeb4a-429d-4fb2-a0ea-ddf9cb8a1bb6")
-	)
-	(wire
-		(pts
 			(xy 158.75 22.86) (xy 160.02 22.86)
 		)
 		(stroke
@@ -7104,16 +6816,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 171.45) (xy 49.53 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "405a1c6e-7a3d-45f4-9b78-c567bd6e3ad7")
-	)
-	(wire
-		(pts
 			(xy 48.26 175.26) (xy 48.26 176.53)
 		)
 		(stroke
@@ -7121,16 +6823,6 @@
 			(type default)
 		)
 		(uuid "41428dcc-255f-4be0-9435-2904abfbcd10")
-	)
-	(wire
-		(pts
-			(xy 59.69 113.03) (xy 59.69 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "427eb71c-aab8-4d38-94d7-841586b214a6")
 	)
 	(wire
 		(pts
@@ -7231,16 +6923,6 @@
 			(type default)
 		)
 		(uuid "46d26bdb-fe8b-49fd-ad9d-5080ccf4b8d8")
-	)
-	(wire
-		(pts
-			(xy 57.15 132.08) (xy 57.15 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "480c3f0f-8ed2-44a1-b12c-b1e72a682f25")
 	)
 	(wire
 		(pts
@@ -7474,26 +7156,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 76.2) (xy 54.61 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52ce1df8-7e7c-46f6-b234-3c62733c7d7e")
-	)
-	(wire
-		(pts
-			(xy 54.61 78.74) (xy 54.61 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5318593a-bd0d-411e-a549-56488008fc3a")
-	)
-	(wire
-		(pts
 			(xy 132.08 92.71) (xy 132.08 93.98)
 		)
 		(stroke
@@ -7531,16 +7193,6 @@
 			(type default)
 		)
 		(uuid "53a19a4e-9080-49f2-a5c0-0f03cd2ede99")
-	)
-	(wire
-		(pts
-			(xy 57.15 168.91) (xy 57.15 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54c6b5b2-472e-423b-8041-aefee084e77d")
 	)
 	(wire
 		(pts
@@ -7774,16 +7426,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 160.02) (xy 240.03 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63381cad-2c15-4dba-a5df-100f81d3afb5")
-	)
-	(wire
-		(pts
 			(xy 62.23 154.94) (xy 63.5 154.94)
 		)
 		(stroke
@@ -7824,6 +7466,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 86.36) (xy 62.23 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66928b35-8788-4e4f-aa0c-55227ae79e6f")
+	)
+	(wire
+		(pts
 			(xy 128.27 31.75) (xy 128.27 34.29)
 		)
 		(stroke
@@ -7841,16 +7493,6 @@
 			(type default)
 		)
 		(uuid "677a1a3c-6b8e-4178-a0df-15e0c7dfb9e6")
-	)
-	(wire
-		(pts
-			(xy 54.61 81.28) (xy 54.61 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67b588e1-43b6-43d2-888f-66c7a029dbeb")
 	)
 	(wire
 		(pts
@@ -7964,26 +7606,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 152.4) (xy 240.03 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cfddcae-7a35-4262-99b4-d40b80214a20")
-	)
-	(wire
-		(pts
-			(xy 59.69 110.49) (xy 59.69 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d4bab80-6058-417c-9d39-674ceca6b6fe")
-	)
-	(wire
-		(pts
 			(xy 215.9 85.09) (xy 229.87 85.09)
 		)
 		(stroke
@@ -8021,16 +7643,6 @@
 			(type default)
 		)
 		(uuid "6ef8fcea-ae3f-4a59-8c05-9aa88922e192")
-	)
-	(wire
-		(pts
-			(xy 59.69 105.41) (xy 59.69 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f410ca0-df90-4274-95f3-19f22360d338")
 	)
 	(wire
 		(pts
@@ -8111,16 +7723,6 @@
 			(type default)
 		)
 		(uuid "74425ddf-3987-4f35-9f85-3ee2d66d824f")
-	)
-	(wire
-		(pts
-			(xy 49.53 163.83) (xy 49.53 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "745cc67d-1458-4c5c-a6c9-5a9ca52984d5")
 	)
 	(wire
 		(pts
@@ -8321,16 +7923,6 @@
 			(type default)
 		)
 		(uuid "7e4d5a74-75dd-4a35-b426-0e4a6f8e351e")
-	)
-	(wire
-		(pts
-			(xy 49.53 134.62) (xy 49.53 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e62939c-eb17-441b-a6ef-ad73dfe16da1")
 	)
 	(wire
 		(pts
@@ -8924,16 +8516,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 107.95) (xy 67.31 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98b7b0e3-693e-472a-8700-1b04befba228")
-	)
-	(wire
-		(pts
 			(xy 96.52 31.75) (xy 96.52 33.02)
 		)
 		(stroke
@@ -9024,16 +8606,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 110.49) (xy 67.31 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b672ae9-cf48-4a42-99a9-930753309811")
-	)
-	(wire
-		(pts
 			(xy 57.15 116.84) (xy 57.15 118.11)
 		)
 		(stroke
@@ -9041,16 +8613,6 @@
 			(type default)
 		)
 		(uuid "9ba30f66-f305-4863-9a95-dfc4b5ab8bbc")
-	)
-	(wire
-		(pts
-			(xy 49.53 132.08) (xy 49.53 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ba9a715-0a08-4708-bd98-a1e1fedbb997")
 	)
 	(wire
 		(pts
@@ -9074,16 +8636,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 81.28) (xy 62.23 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c999f77-4755-4d22-b7bd-d2eb77d5de62")
-	)
-	(wire
-		(pts
 			(xy 59.69 186.69) (xy 58.42 186.69)
 		)
 		(stroke
@@ -9101,16 +8653,6 @@
 			(type default)
 		)
 		(uuid "9e43b883-ebb7-41c0-9961-cb7fdc6fc1dd")
-	)
-	(wire
-		(pts
-			(xy 57.15 163.83) (xy 57.15 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e951e43-eba2-4284-acf3-7c1782283723")
 	)
 	(wire
 		(pts
@@ -9304,16 +8846,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 107.95) (xy 59.69 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9e8195c-7f11-4430-aa43-cd3add01c4c6")
-	)
-	(wire
-		(pts
 			(xy 252.73 82.55) (xy 252.73 95.25)
 		)
 		(stroke
@@ -9431,16 +8963,6 @@
 			(type default)
 		)
 		(uuid "b1957ea5-e820-4009-85b9-1618b138eda5")
-	)
-	(wire
-		(pts
-			(xy 62.23 78.74) (xy 62.23 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1e2d9be-3da6-498d-81a4-77af817783d4")
 	)
 	(wire
 		(pts
@@ -9654,16 +9176,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 171.45) (xy 57.15 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfad1275-43f3-47d3-b5aa-77e0fe4815fe")
-	)
-	(wire
-		(pts
 			(xy 228.6 77.47) (xy 229.87 77.47)
 		)
 		(stroke
@@ -9674,16 +9186,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 137.16) (xy 57.15 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c00cb30e-76d5-482d-8ba4-3411c3a3687d")
-	)
-	(wire
-		(pts
 			(xy 186.69 132.08) (xy 186.69 139.7)
 		)
 		(stroke
@@ -9691,16 +9193,6 @@
 			(type default)
 		)
 		(uuid "c17658da-0065-4f2c-b174-1beb1d87b60f")
-	)
-	(wire
-		(pts
-			(xy 62.23 86.36) (xy 62.23 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c21eead5-d987-4e09-80f6-a9f8837d7f5f")
 	)
 	(wire
 		(pts
@@ -9791,16 +9283,6 @@
 			(type default)
 		)
 		(uuid "c4a00af4-8234-46ec-9efb-03e849623d05")
-	)
-	(wire
-		(pts
-			(xy 241.3 157.48) (xy 240.03 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4a3703e-9698-48a9-84e8-f8ebf19b3f59")
 	)
 	(wire
 		(pts
@@ -10214,16 +9696,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 168.91) (xy 49.53 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc73f634-9ac3-4fb5-97a9-8ae55aff9e1b")
-	)
-	(wire
-		(pts
 			(xy 196.85 22.86) (xy 209.55 22.86)
 		)
 		(stroke
@@ -10341,16 +9813,6 @@
 			(type default)
 		)
 		(uuid "e3cf5a57-e31c-498c-a7e5-f6166973a4d2")
-	)
-	(wire
-		(pts
-			(xy 57.15 139.7) (xy 57.15 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4a3ae9c-7914-4b0d-abd5-7705af3eff05")
 	)
 	(wire
 		(pts
@@ -10724,26 +10186,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 154.94) (xy 241.3 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f99da015-5b72-4d83-ab27-e6af0ccac84c")
-	)
-	(wire
-		(pts
-			(xy 62.23 76.2) (xy 62.23 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9c44957-fd3b-4a02-89c9-948b5b55d609")
-	)
-	(wire
-		(pts
 			(xy 148.59 34.29) (xy 168.91 34.29)
 		)
 		(stroke
@@ -10821,16 +10263,6 @@
 			(type default)
 		)
 		(uuid "fbb0c925-becd-4d0a-9147-8f7ef479d612")
-	)
-	(wire
-		(pts
-			(xy 62.23 71.12) (xy 62.23 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbbd94fe-2cc9-4568-a3e9-cfc836993760")
 	)
 	(wire
 		(pts
@@ -11294,28 +10726,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RX"
-		(shape input)
-		(at 241.3 152.4 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2b266aed-50a4-4ec3-a415-7a17d939127f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.1926 152.3206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -12134,28 +11544,6 @@
 			)
 		)
 	)
-	(global_label "TX"
-		(shape input)
-		(at 241.3 154.94 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "baf5a95f-9f89-4113-b4c6-92311dd8315a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 245.8902 154.8606 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "STEP1"
 		(shape input)
 		(at 208.28 48.26 180)
@@ -12756,75 +12144,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 53.34 134.62 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "041ad737-a60e-489f-81ca-57aacce01944")
-		(property "Reference" "R23"
-			(at 48.26 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 136.398 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e0c735d-7cce-4baa-b682-cfb97e0b101c")
-		)
-		(pin "2"
-			(uuid "52633c87-d506-4261-acce-ee7d381b54b0")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 62.23 43.18 0)
 		(unit 1)
@@ -12886,6 +12205,75 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 53.34 176.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0834f1ba-4473-4273-a5f2-de9139000243")
+		(property "Reference" "R22"
+			(at 59.69 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1"
+			(at 57.15 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 53.34 178.308 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 53.34 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cce69471-5273-4dfb-a867-587d42db1dca")
+		)
+		(pin "2"
+			(uuid "ec165d9b-4963-49c1-b3b8-c8558c3c589e")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -13021,75 +12409,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "VD4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 58.42 86.36 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0a810a21-399d-4727-a5a7-b62f14b75f48")
-		(property "Reference" "R46"
-			(at 53.34 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 62.23 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 58.42 88.138 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 58.42 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "27d2d7fb-93c7-489e-a227-6b8466036e7c")
-		)
-		(pin "2"
-			(uuid "a3c6d2af-4d79-4daf-859b-8a7c328d1c04")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -13509,75 +12828,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "J19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 63.5 107.95 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "14c71942-8a45-4041-a596-62d009d1cd65")
-		(property "Reference" "R27"
-			(at 58.42 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 67.31 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 63.5 109.728 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 63.5 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0cd6b53e-6754-4977-957b-f18f1cf037d4")
-		)
-		(pin "2"
-			(uuid "5d9b3be7-b7d0-435c-bad1-15631840c01a")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -14351,80 +13601,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Female")
-		(at 234.95 154.94 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "29648155-c5c0-474d-a7f8-f08fc229378a")
-		(property "Reference" "J10"
-			(at 234.95 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "I2C"
-			(at 236.22 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
-			(at 234.95 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 234.95 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 234.95 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "90fe9431-4284-4b5f-ab07-25f6427dee9f")
-		)
-		(pin "2"
-			(uuid "9328b779-3201-4b05-9974-d47d8555c95b")
-		)
-		(pin "3"
-			(uuid "4e11aefb-27c1-412d-b92c-fe09fe21ce01")
-		)
-		(pin "4"
-			(uuid "11915b22-a712-40bf-8f9e-c981bb50e8a7")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 49.53 58.42 0)
 		(unit 1)
@@ -14690,75 +13866,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "C27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 63.5 110.49 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "300404fd-7abb-41b4-aa1a-6fb4800ca864")
-		(property "Reference" "R24"
-			(at 69.85 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 67.31 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 63.5 112.268 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 63.5 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d75c39de-8253-4347-99ca-0568944d64ee")
-		)
-		(pin "2"
-			(uuid "1745a188-53ab-4d93-8b71-a7316837983e")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -15045,140 +14152,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "L4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 53.34 173.99 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "437b6d5a-9fda-4bb4-80ed-ead34fc145dd")
-		(property "Reference" "R55"
-			(at 59.69 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 175.768 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b8b1d4fc-a788-4a25-9d2e-ab29c52a7190")
-		)
-		(pin "2"
-			(uuid "f4c2a985-e69f-46a2-ad4c-d0378ea11571")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 241.3 157.48 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "43b2f475-cba8-425a-a9c8-690266043d04")
-		(property "Reference" "#PWR021"
-			(at 237.49 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 246.38 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 241.3 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 241.3 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2569634e-f5c9-444d-b9ad-76cca82f3e74")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -15746,75 +14719,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 53.34 144.78 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4e938010-3779-4388-b7cf-5c35fd787aec")
-		(property "Reference" "R52"
-			(at 48.26 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 146.558 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8cf6d8ff-8ffa-43d8-b6a9-25e2df01b892")
-		)
-		(pin "2"
-			(uuid "caa15f6c-f471-4f13-89dc-0828c7c4095f")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VPP")
 		(at 66.04 20.32 0)
 		(unit 1)
@@ -15875,75 +14779,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 53.34 163.83 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4fe0d91c-f664-42ec-bcae-0d168e144a49")
-		(property "Reference" "R16"
-			(at 59.69 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 165.608 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe555b57-efef-46ef-bd0d-201b9eeb52eb")
-		)
-		(pin "2"
-			(uuid "38300611-481c-4bf3-95e9-dddf365d66e8")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -16638,6 +15473,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 53.34 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5bb11065-21a4-432a-8ddf-65984d740841")
+		(property "Reference" "R15"
+			(at 59.69 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1"
+			(at 57.15 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 53.34 146.558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 53.34 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "921b18cb-81a5-45e8-b83d-77ab093a81cc")
+		)
+		(pin "2"
+			(uuid "93f2d4de-267a-46c1-a93b-c7d6cfac58d2")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 73.66 62.23 270)
 		(unit 1)
@@ -16705,75 +15609,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 53.34 171.45 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "61c97966-352d-4e35-8d13-782ef6fea84d")
-		(property "Reference" "R15"
-			(at 48.26 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 173.228 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "514526dc-ff50-42fa-a312-bcff95831ad2")
-		)
-		(pin "2"
-			(uuid "f8287180-b316-4518-aabd-9eafbd0d2cca")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:L")
 		(at 54.61 186.69 90)
 		(unit 1)
@@ -16835,75 +15670,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "L2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 53.34 168.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "649577ee-92ba-4af9-8cd4-8e97e6ccb959")
-		(property "Reference" "R14"
-			(at 59.69 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 170.688 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dec76cde-56ae-4b87-ad19-b3de428f77dc")
-		)
-		(pin "2"
-			(uuid "617710b9-f8f4-4490-858f-825c384633f1")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -17988,75 +16754,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 63.5 115.57 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "85851306-aabe-4e2b-8054-93c6cb636b1e")
-		(property "Reference" "R49"
-			(at 69.85 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 67.31 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 63.5 117.348 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 63.5 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bcdf77cd-41db-432d-a5fa-5fa7a3ee2dff")
-		)
-		(pin "2"
-			(uuid "cf2b208c-6609-4f19-b289-308d41eaca0b")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 43.18 144.78 90)
 		(unit 1)
@@ -18081,6 +16778,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
@@ -18327,144 +17025,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 53.34 142.24 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e365689-8dd8-4bcd-bf47-e812a4a9183d")
-		(property "Reference" "R53"
-			(at 59.69 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 144.018 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f1f7095b-55e2-4c44-be21-638b16cbb460")
-		)
-		(pin "2"
-			(uuid "88a09b6b-ca4e-44af-8fc8-95525733e7c2")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R53")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 53.34 176.53 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e39d9a5-ae71-4fac-90c8-b81905d560d5")
-		(property "Reference" "R54"
-			(at 48.26 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 178.308 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "19f2d76a-1872-4c13-a0e3-5ecaf4872403")
-		)
-		(pin "2"
-			(uuid "09b5c458-20f3-4789-bfe1-06c119aa30c2")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 96.52 34.29 0)
 		(unit 1)
@@ -18526,75 +17086,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 58.42 83.82 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8ef98f0b-18e2-4c4e-9212-1e871aa9b4fc")
-		(property "Reference" "R47"
-			(at 64.77 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 62.23 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 58.42 85.598 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 58.42 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bd5ce27c-2ed8-450e-b61a-89f0652e0187")
-		)
-		(pin "2"
-			(uuid "278c2fe3-2980-4010-85ea-1eebd1fa197c")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -19351,75 +17842,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 58.42 81.28 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9960c83f-2fe4-4bde-9feb-7ddc6e5a4f65")
-		(property "Reference" "R29"
-			(at 53.34 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 62.23 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 58.42 83.058 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 58.42 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "256ff78a-bc06-4f9e-b7f7-bcfe1170f5b6")
-		)
-		(pin "2"
-			(uuid "2db86482-b4cd-4469-8c7b-9fbedd7d9941")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 205.74 25.4 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19614,75 +18036,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 53.34 137.16 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9ce00558-4fb3-4ce8-9f71-421fd97c4ff3")
-		(property "Reference" "R20"
-			(at 59.69 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 138.938 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b1393095-4208-478f-a8c5-ad33986fda3c")
-		)
-		(pin "2"
-			(uuid "a4617cdc-acc1-4737-b290-5c0bf8ed67db")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -20302,75 +18655,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 53.34 166.37 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a3aa43e5-c646-443b-a259-a6eec460d548")
-		(property "Reference" "R18"
-			(at 48.26 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 168.148 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8442d24d-da10-4ea5-a610-00c3f4db1570")
-		)
-		(pin "2"
-			(uuid "ca77f23e-6108-4e83-8981-fca7e3dfee4d")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VPP")
 		(at 76.2 20.32 0)
 		(unit 1)
@@ -20507,75 +18791,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 58.42 78.74 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a403fc90-8972-4a93-a9fa-fb055c998a32")
-		(property "Reference" "R28"
-			(at 64.77 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 62.23 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 58.42 80.518 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 58.42 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "baa33590-0338-4c84-961d-74a82f5861cd")
-		)
-		(pin "2"
-			(uuid "57c22bcd-21e7-4418-85e1-5a330af457ee")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -20912,75 +19127,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 53.34 132.08 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "abb30cb1-f0d0-4526-8833-ea4c5e1645dc")
-		(property "Reference" "R22"
-			(at 59.69 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 133.858 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "60269fbc-21b9-485d-a786-e239575a0919")
-		)
-		(pin "2"
-			(uuid "1d9e9c2b-7685-4f0d-9692-0d2e688dad44")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -21391,15 +19537,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 58.42 73.66 90)
+		(at 58.42 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b627bc43-b182-4b8e-b193-4b3283a288e9")
-		(property "Reference" "R30"
-			(at 64.77 76.2 0)
+		(uuid "b6c7dbf3-4fde-4eee-9573-fc07ef9b1576")
+		(property "Reference" "R14"
+			(at 64.77 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21408,7 +19554,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 62.23 74.93 0)
+			(at 62.23 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21417,7 +19563,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 58.42 75.438 90)
+			(at 58.42 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21426,7 +19572,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 73.66 0)
+			(at 58.42 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21435,7 +19581,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 73.66 0)
+			(at 58.42 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21444,15 +19590,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "556203cf-5308-4d36-a00b-12ac225daf62")
+			(uuid "f0956eb0-3566-4920-a30c-9f1030e797e7")
 		)
 		(pin "2"
-			(uuid "2a179d7c-8e92-420b-b937-e592987af0eb")
+			(uuid "eacac094-32bc-4891-b6fe-5fee4bc0b4d2")
 		)
 		(instances
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R30")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -21789,75 +19935,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 58.42 76.2 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bb319a98-b023-4932-ad8a-0a1af9b92f3d")
-		(property "Reference" "R31"
-			(at 53.34 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 62.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 58.42 77.978 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 58.42 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 58.42 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8511f7f4-c558-4070-adf1-b4a6fa1d8ed4")
-		)
-		(pin "2"
-			(uuid "07f27d34-c270-4f1c-8e80-eebbb6d4be12")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -22676,75 +20753,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 63.5 113.03 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c9805cea-3761-49b8-9e48-5d5d51001e47")
-		(property "Reference" "R25"
-			(at 58.42 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 67.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 63.5 114.808 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 63.5 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab09d294-5a45-40d3-86fa-036e50a985c1")
-		)
-		(pin "2"
-			(uuid "36b04b42-a9a2-48c6-87ec-6b01689e2168")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 68.58 154.94 0)
 		(unit 1)
@@ -23076,75 +21084,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR065")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 53.34 139.7 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ce60ad9f-8d4c-405f-83d0-1815e526df12")
-		(property "Reference" "R21"
-			(at 48.26 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 57.15 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 141.478 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "32954400-59c8-4d01-85a2-2285667296c5")
-		)
-		(pin "2"
-			(uuid "73e80740-e625-40ec-b966-b6558bcff920")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -24657,75 +22596,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 63.5 118.11 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ec12eb72-14c6-40ee-b8f5-392d51bccc45")
-		(property "Reference" "R48"
-			(at 58.42 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 67.31 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 63.5 119.888 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 63.5 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "387a336c-b46e-48ea-9ce8-4739544e2010")
-		)
-		(pin "2"
-			(uuid "35c23fb5-92e5-4ba8-8de8-c9b847b5212a")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
 		(at 280.67 30.48 0)
 		(unit 1)
@@ -25019,6 +22889,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 63.5 118.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f1011a90-603a-4a82-ab7f-53877694c13d")
+		(property "Reference" "R16"
+			(at 69.85 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1"
+			(at 67.31 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 63.5 119.888 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 63.5 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34a2191d-7b74-43fa-b00f-7c806a3a5605")
+		)
+		(pin "2"
+			(uuid "c7d1c6aa-0c93-4621-be67-6ec639804621")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:CDBA3100-HF")
 		(at 58.42 123.19 270)
 		(unit 1)
@@ -25238,142 +23177,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 63.5 105.41 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f9f9539b-431f-4304-85ec-71f318422a39")
-		(property "Reference" "R26"
-			(at 69.85 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1"
-			(at 67.31 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 63.5 107.188 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 63.5 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 63.5 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "72cf5512-9ed7-4b93-a5e3-445d765d9e4f")
-		)
-		(pin "2"
-			(uuid "d6aa6fda-6e6d-4c50-8f28-571f37f84422")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 241.3 160.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fab35b9f-22b8-40b8-a34f-c3e78d31a80c")
-		(property "Reference" "#PWR061"
-			(at 247.65 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 246.38 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 241.3 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 241.3 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "02f42abb-642f-4f8f-a9ee-8e404f7c8066")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR061")
 					(unit 1)
 				)
 			)
