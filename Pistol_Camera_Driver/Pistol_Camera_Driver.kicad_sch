@@ -10840,28 +10840,6 @@
 			)
 		)
 	)
-	(global_label "K4"
-		(shape input)
-		(at 114.3 148.59 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "48f17f4f-83ea-4850-b03c-ab7e047d60fc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.1926 148.5106 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "DIR2"
 		(shape input)
 		(at 91.44 82.55 180)
@@ -10880,6 +10858,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "K5"
+		(shape input)
+		(at 114.3 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e20afd8-0634-402e-b63b-272ef951d2eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7647 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10919,28 +10919,6 @@
 		(uuid "5c7cc93c-c82a-4b08-aed1-1acbdeb88965")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 80.1855 64.6906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "K3"
-		(shape input)
-		(at 114.3 143.51 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5d701a5b-35ab-4851-8ef2-ed4cd7ae2a3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.1926 143.4306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11126,9 +11104,9 @@
 			)
 		)
 	)
-	(global_label "K2"
+	(global_label "K4"
 		(shape input)
-		(at 113.03 60.96 90)
+		(at 114.3 153.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11136,9 +11114,9 @@
 			)
 			(justify left)
 		)
-		(uuid "65f78cd3-5f49-4de8-905a-217f5563a9d4")
+		(uuid "6e54f522-a61c-43fb-a233-a5874e8fc7b9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.03 55.4953 90)
+			(at 119.1926 153.5906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11188,6 +11166,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "K3"
+		(shape input)
+		(at 114.3 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d352231-4307-4461-8cbe-201d4b54605c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.1926 158.6706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "K6"
+		(shape input)
+		(at 114.3 143.51 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "820a5121-457f-4347-ab0e-cf50c3aac14d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7647 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -11456,6 +11478,28 @@
 			)
 		)
 	)
+	(global_label "K2"
+		(shape input)
+		(at 113.03 60.96 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a405316e-f4b3-4e8b-a0fb-a550be2a55b4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 113.03 55.4953 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SW"
 		(shape input)
 		(at 91.44 80.01 180)
@@ -11588,28 +11632,6 @@
 			)
 		)
 	)
-	(global_label "K1"
-		(shape input)
-		(at 115.57 60.96 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ce08e374-ec2d-445c-8606-69660e75d5e7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 55.4953 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "AOUT2_2"
 		(shape input)
 		(at 215.9 85.09 180)
@@ -11667,28 +11689,6 @@
 		(uuid "cebcc71a-842a-4f40-b559-0c13aa865453")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 180.3617 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "K5"
-		(shape input)
-		(at 114.3 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cfb0aa60-0e73-4ff8-9246-f20c0f1c4e84")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.7647 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11808,9 +11808,9 @@
 			)
 		)
 	)
-	(global_label "K6"
+	(global_label "K1"
 		(shape input)
-		(at 114.3 158.75 0)
+		(at 115.57 60.96 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11818,9 +11818,9 @@
 			)
 			(justify left)
 		)
-		(uuid "df045c64-b758-4a49-b22b-ba7e5af73736")
+		(uuid "dfe2b313-ee0c-48c9-b894-773ef45a9074")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.7647 158.75 0)
+			(at 115.57 55.4953 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11948,10 +11948,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "007e5e46-f233-487d-9738-1c5085b9f26d")
 		(property "Reference" "J16"
-			(at 107.95 147.32 0)
+			(at 104.648 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12903,6 +12902,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3VP")
+		(at 199.39 19.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "18642f06-c4f5-4136-8b41-8c8a965100d5")
+		(property "Reference" "#PWR01"
+			(at 203.2 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3VP"
+			(at 195.58 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0c5bbf1-157f-4fd7-88f7-22647feab00c")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 243.84 26.67 90)
 		(unit 1)
@@ -13470,10 +13534,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2861976c-e2c7-46bb-a74f-8b031498db05")
 		(property "Reference" "J17"
-			(at 107.95 152.4 0)
+			(at 104.902 157.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15542,6 +15605,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3VP")
+		(at 271.78 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e42876c-503b-4232-a4d8-9c9f37455be7")
+		(property "Reference" "#PWR011"
+			(at 275.59 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3VP"
+			(at 275.59 98.044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 271.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 271.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "027c391b-e5ac-43c0-b259-2b4e0e1d29c9")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 73.66 62.23 270)
 		(unit 1)
@@ -15670,6 +15798,71 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VP")
+		(at 252.73 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6641776a-f089-4084-89cd-7b2924c1810a")
+		(property "Reference" "#PWR05"
+			(at 256.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3VP"
+			(at 248.92 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 252.73 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 252.73 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 252.73 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5346d5ac-5455-40a5-8fb4-2fd945ad8caa")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -16824,71 +17017,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 199.39 19.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "888e9af0-bbc3-4a11-9180-ae94ea427b7d")
-		(property "Reference" "#PWR01"
-			(at 199.39 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 194.818 18.542 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 199.39 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "aa50b783-449b-45a9-bdb2-727abc3a19be")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 71.12 93.98 0)
 		(unit 1)
@@ -17567,73 +17695,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 271.78 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9656da61-efb4-44e2-8eeb-bb936e317a65")
-		(property "Reference" "#PWR047"
-			(at 271.78 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 274.32 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 271.78 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 271.78 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3cb8e574-e759-4922-b684-ba5d484f5091")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -19071,10 +19132,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ab608f16-473f-4e15-a0c3-afe63abc77a7")
 		(property "Reference" "J8"
-			(at 107.95 132.08 0)
+			(at 104.648 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19206,10 +19266,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ae2db5cf-96a4-45ba-87a7-90c130d0f56f")
 		(property "Reference" "J15"
-			(at 107.95 142.24 0)
+			(at 104.648 148.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20617,73 +20676,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 252.73 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c441eb28-7c49-40b7-9259-a1c6cb9be3d4")
-		(property "Reference" "#PWR024"
-			(at 252.73 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 255.27 49.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 252.73 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 252.73 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 252.73 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e896e53e-7822-4538-b931-1fe386245bfa")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 58.42 48.26 0)
 		(unit 1)
@@ -21712,10 +21704,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dd275c45-fc7f-4f0b-b956-edceae5b1328")
 		(property "Reference" "J14"
-			(at 107.95 137.16 0)
+			(at 104.394 143.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
