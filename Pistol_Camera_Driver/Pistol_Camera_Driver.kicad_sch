@@ -2138,231 +2138,6 @@
 				)
 			)
 		)
-		(symbol "Regulator_Switching:XL1509-5.0"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -7.112 6.096 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "XL1509-5.0"
-				(at 5.842 6.096 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-				(at 0 8.382 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1809050422_XLSEMI-XL1509-5-0E1_C61063.pdf"
-				(at 2.54 10.668 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Buck DC/DC Converter, 2A, 5V Output Voltage, 7-40V Input Voltage"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Buck DC/DC Converter"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "XL1509-5.0_0_1"
-				(rectangle
-					(start -7.62 5.08)
-					(end 7.62 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "XL1509-5.0_1_1"
-				(pin power_in line
-					(at -10.16 2.54 0)
-					(length 2.54)
-					(name "VIN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 10.16 2.54 180)
-					(length 2.54)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 10.16 -2.54 180)
-					(length 2.54)
-					(name "FB"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -10.16 -2.54 0)
-					(length 2.54)
-					(name "~{EN}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Shield_Emergent:DRV8834PWP"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4287,126 +4062,6 @@
 				)
 			)
 		)
-		(symbol "power:+5V"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+5V"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+5V\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "power-flag"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+5V_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+5V_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0) hide
-					(name "+5V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_names
@@ -4805,12 +4460,6 @@
 		(uuid "1e73f32a-4bcc-43db-bb00-b3c1075c4ad5")
 	)
 	(junction
-		(at 59.69 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1eb3cdff-c1fd-4045-ae3e-475fe4791c78")
-	)
-	(junction
 		(at 59.69 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4863,12 +4512,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "314ccfd8-cfed-4f53-8b96-6091cd03d746")
-	)
-	(junction
-		(at 96.52 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "32fd574f-c603-4a55-bee5-5b221fbe2779")
 	)
 	(junction
 		(at 203.2 138.43)
@@ -4937,12 +4580,6 @@
 		(uuid "4ba5566a-a657-4cb1-b9f1-8b3b8a1032ae")
 	)
 	(junction
-		(at 82.55 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d0f2340-1bf4-4059-abd3-5d6b7e0c255a")
-	)
-	(junction
 		(at 157.48 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5009,12 +4646,6 @@
 		(uuid "6d7c074e-b7b0-4bfa-a7bc-a1508b970676")
 	)
 	(junction
-		(at 82.55 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "71807b1e-889c-42b9-ae2f-238c13150b79")
-	)
-	(junction
 		(at 49.53 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5057,6 +4688,12 @@
 		(uuid "7ed445cc-75bc-4f92-aa73-568133f5e1f2")
 	)
 	(junction
+		(at 59.69 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7f077109-56a0-4aa9-bcf7-ad0ed07fa5d6")
+	)
+	(junction
 		(at 62.23 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5069,22 +4706,10 @@
 		(uuid "84fc8872-4ccb-4a34-ae45-24158e4a922d")
 	)
 	(junction
-		(at 116.84 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "93c1814c-a3e2-4999-8ceb-5b5734d2749d")
-	)
-	(junction
 		(at 232.41 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "969c6a9d-0504-41af-9e50-26ac306b640f")
-	)
-	(junction
-		(at 85.09 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "98ada7d5-8e31-49f1-ac6a-dddca7c47e41")
 	)
 	(junction
 		(at 247.65 139.7)
@@ -5145,12 +4770,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aac24311-7390-49f6-8cf0-c932bc48e7d9")
-	)
-	(junction
-		(at 118.11 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab0efdd5-8b8a-4cde-a411-e29a48305783")
 	)
 	(junction
 		(at 66.04 21.59)
@@ -5267,12 +4886,6 @@
 		(uuid "ddfd62ce-a1f9-425a-83f5-b6eb1866cc4e")
 	)
 	(junction
-		(at 76.2 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e29758d9-0007-48e4-8fa0-b3b03cbcb311")
-	)
-	(junction
 		(at 57.15 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5331,12 +4944,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6538b17-f925-49ba-a636-c401a2151b89")
-	)
-	(junction
-		(at 116.84 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fcd93d75-a9af-42b5-a1bd-8c49e5922684")
 	)
 	(junction
 		(at 110.49 60.96)
@@ -5583,16 +5190,6 @@
 			(type default)
 		)
 		(uuid "07f21ef2-362d-4c92-8359-8b65a251abbd")
-	)
-	(wire
-		(pts
-			(xy 115.57 21.59) (xy 116.84 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08485919-3ac5-4ffb-84f1-27d44e9a323e")
 	)
 	(wire
 		(pts
@@ -5866,16 +5463,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 21.59) (xy 118.11 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "151eb843-2c28-4642-99ec-259f1b99368b")
-	)
-	(wire
-		(pts
 			(xy 256.54 148.59) (xy 261.62 148.59)
 		)
 		(stroke
@@ -5946,6 +5533,26 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 144.78) (xy 49.53 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1824e3e2-160d-45fc-b263-f87e47977bd9")
+	)
+	(wire
+		(pts
+			(xy 59.69 147.32) (xy 59.69 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18cbfef6-3beb-452f-81f7-67c1aba38441")
+	)
+	(wire
+		(pts
 			(xy 62.23 33.02) (xy 62.23 31.75)
 		)
 		(stroke
@@ -5963,16 +5570,6 @@
 			(type default)
 		)
 		(uuid "192912bb-7433-4373-a1be-1c5f738a61f1")
-	)
-	(wire
-		(pts
-			(xy 116.84 21.59) (xy 116.84 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "197c2b4a-a5c9-4d57-9c08-8530babb1ae5")
 	)
 	(wire
 		(pts
@@ -6053,16 +5650,6 @@
 			(type default)
 		)
 		(uuid "1d049570-5eb3-4806-8366-3112ff594fdb")
-	)
-	(wire
-		(pts
-			(xy 86.36 26.67) (xy 85.09 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d4d1322-c6e3-4542-90f1-0cc71f5ca8aa")
 	)
 	(wire
 		(pts
@@ -6156,16 +5743,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 33.02) (xy 96.52 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "241810c0-8b43-46c0-8c38-c8bcf196390a")
-	)
-	(wire
-		(pts
 			(xy 105.41 60.96) (xy 110.49 60.96)
 		)
 		(stroke
@@ -6213,16 +5790,6 @@
 			(type default)
 		)
 		(uuid "26130c3b-ee88-46f8-9ebf-5f90b47080ea")
-	)
-	(wire
-		(pts
-			(xy 76.2 33.02) (xy 82.55 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2621178f-b65e-4984-a318-00df6b0ee76d")
 	)
 	(wire
 		(pts
@@ -6466,16 +6033,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 26.67) (xy 106.68 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "329b3e72-3eaf-4b86-b566-632da9af611d")
-	)
-	(wire
-		(pts
 			(xy 66.04 93.98) (xy 64.77 93.98)
 		)
 		(stroke
@@ -6483,16 +6040,6 @@
 			(type default)
 		)
 		(uuid "32b80528-a5b2-4424-bfaa-38cbbdc85a4c")
-	)
-	(wire
-		(pts
-			(xy 106.68 21.59) (xy 107.95 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "337ffe61-8c28-4d28-a20d-c7ec3f0b2b56")
 	)
 	(wire
 		(pts
@@ -6586,16 +6133,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 31.75) (xy 116.84 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38096a66-1274-4dfa-83a3-6307d7067225")
-	)
-	(wire
-		(pts
 			(xy 231.14 30.48) (xy 248.92 30.48)
 		)
 		(stroke
@@ -6656,7 +6193,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 144.78) (xy 59.69 144.78)
+			(xy 58.42 144.78) (xy 59.69 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6846,16 +6383,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 21.59) (xy 76.2 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44aa5d20-9a71-4f70-8858-59517e24a3c8")
-	)
-	(wire
-		(pts
 			(xy 152.4 48.26) (xy 152.4 49.53)
 		)
 		(stroke
@@ -6873,16 +6400,6 @@
 			(type default)
 		)
 		(uuid "465e8c54-d563-4189-811c-c8ca7671aff6")
-	)
-	(wire
-		(pts
-			(xy 82.55 21.59) (xy 82.55 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46d26bdb-fe8b-49fd-ad9d-5080ccf4b8d8")
 	)
 	(wire
 		(pts
@@ -7323,16 +6840,6 @@
 			(type default)
 		)
 		(uuid "5ec24097-f934-4320-a2a5-603ea870f822")
-	)
-	(wire
-		(pts
-			(xy 116.84 21.59) (xy 118.11 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f2b174a-d7fc-4b80-8e28-3e051ec41f39")
 	)
 	(wire
 		(pts
@@ -7846,16 +7353,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 31.75) (xy 120.65 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d931f83-e949-4be5-a311-38c8023c2130")
-	)
-	(wire
-		(pts
 			(xy 50.8 157.48) (xy 49.53 157.48)
 		)
 		(stroke
@@ -7863,16 +7360,6 @@
 			(type default)
 		)
 		(uuid "7da5356e-746e-494d-9c15-a254f2a49e57")
-	)
-	(wire
-		(pts
-			(xy 107.95 22.86) (xy 118.11 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7dea13c1-e604-40f8-b0d8-d83e75fd1f44")
 	)
 	(wire
 		(pts
@@ -7903,16 +7390,6 @@
 			(type default)
 		)
 		(uuid "7eaeac35-941d-4489-8d95-2c05fdc348fe")
-	)
-	(wire
-		(pts
-			(xy 118.11 19.05) (xy 118.11 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f168d4d-1dc1-4ae3-b9e8-51b82a1b470b")
 	)
 	(wire
 		(pts
@@ -7993,16 +7470,6 @@
 			(type default)
 		)
 		(uuid "82afbadf-fc57-4988-9459-9f9d95289945")
-	)
-	(wire
-		(pts
-			(xy 107.95 22.86) (xy 107.95 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82dd7398-9c52-44a0-8e54-402a06273211")
 	)
 	(wire
 		(pts
@@ -8206,7 +7673,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 148.59) (xy 62.23 154.94)
+			(xy 62.23 147.32) (xy 62.23 154.94)
 		)
 		(stroke
 			(width 0)
@@ -8466,16 +7933,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 31.75) (xy 96.52 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98f8db89-f368-4648-b1cb-1cf72a5d1fbf")
-	)
-	(wire
-		(pts
 			(xy 62.23 96.52) (xy 60.96 96.52)
 		)
 		(stroke
@@ -8566,16 +8023,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 20.32) (xy 76.2 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c4e5131-5c6d-4c72-a09d-3becacde36e2")
-	)
-	(wire
-		(pts
 			(xy 59.69 186.69) (xy 58.42 186.69)
 		)
 		(stroke
@@ -8626,16 +8073,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 30.48) (xy 76.2 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1963acc-8ee2-4fdf-9e60-f2b811f78cd4")
-	)
-	(wire
-		(pts
 			(xy 139.7 186.69) (xy 140.97 186.69)
 		)
 		(stroke
@@ -8643,16 +8080,6 @@
 			(type default)
 		)
 		(uuid "a1f34adc-95bc-4902-8962-a9d046199897")
-	)
-	(wire
-		(pts
-			(xy 82.55 21.59) (xy 86.36 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2252baf-5138-42db-b580-f681fc5da311")
 	)
 	(wire
 		(pts
@@ -8866,16 +8293,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 21.59) (xy 120.65 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acd0a551-6061-4ffa-bd54-305f721f3253")
-	)
-	(wire
-		(pts
 			(xy 262.89 146.05) (xy 262.89 161.29)
 		)
 		(stroke
@@ -8903,16 +8320,6 @@
 			(type default)
 		)
 		(uuid "adf17a55-f25b-4a26-857b-ff9036f64cbe")
-	)
-	(wire
-		(pts
-			(xy 76.2 21.59) (xy 82.55 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0f216c6-0909-41b4-9074-c986a190577e")
 	)
 	(wire
 		(pts
@@ -9376,7 +8783,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 144.78) (xy 59.69 148.59)
+			(xy 59.69 144.78) (xy 59.69 147.32)
 		)
 		(stroke
 			(width 0)
@@ -9483,26 +8890,6 @@
 			(type default)
 		)
 		(uuid "d6dfaeae-a825-4374-9d28-63f60b4c5135")
-	)
-	(wire
-		(pts
-			(xy 120.65 21.59) (xy 120.65 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d706e87a-11c7-4a8a-b3a1-a505bc2cc29c")
-	)
-	(wire
-		(pts
-			(xy 82.55 33.02) (xy 85.09 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8db6a01-9198-4903-b940-b9829e158a57")
 	)
 	(wire
 		(pts
@@ -9726,16 +9113,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 33.02) (xy 116.84 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6842b23-dc96-4e06-9b33-d5f650e75075")
-	)
-	(wire
-		(pts
 			(xy 234.95 41.91) (xy 234.95 40.64)
 		)
 		(stroke
@@ -9776,16 +9153,6 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 31.75) (xy 82.55 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e809167f-2dde-49e8-ac8f-5fd2c53b9a9d")
-	)
-	(wire
-		(pts
 			(xy 208.28 50.8) (xy 210.82 50.8)
 		)
 		(stroke
@@ -9823,16 +9190,6 @@
 			(type default)
 		)
 		(uuid "eacc3944-1d08-45c1-bcdd-4d7c0a2370db")
-	)
-	(wire
-		(pts
-			(xy 85.09 33.02) (xy 96.52 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb017d66-1998-4f94-80c7-727fe35954fd")
 	)
 	(wire
 		(pts
@@ -9986,16 +9343,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 33.02) (xy 116.84 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1e45a6a-ad26-49ed-80e0-eb7b5aff0947")
-	)
-	(wire
-		(pts
 			(xy 34.29 21.59) (xy 35.56 21.59)
 		)
 		(stroke
@@ -10043,16 +9390,6 @@
 			(type default)
 		)
 		(uuid "f8a08bca-7a7d-4b89-98f4-8bab5ec4d7ec")
-	)
-	(wire
-		(pts
-			(xy 85.09 26.67) (xy 85.09 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9206e66-5788-446c-b163-dab400df5a9d")
 	)
 	(wire
 		(pts
@@ -10176,7 +9513,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 148.59) (xy 59.69 148.59)
+			(xy 62.23 147.32) (xy 59.69 147.32)
 		)
 		(stroke
 			(width 0)
@@ -12149,71 +11486,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 121.92 190.5 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0940cc9c-0751-49d0-a0bd-0e80da18e604")
-		(property "Reference" "#PWR0112"
-			(at 125.73 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 117.094 190.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 121.92 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 121.92 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 121.92 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d30eaa94-f6bf-48c9-9585-90b08a2d8988")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR0112")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:CDBA3100-HF")
 		(at 49.53 181.61 270)
 		(unit 1)
@@ -13172,76 +12444,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:CDBA3100-HF")
-		(at 116.84 27.94 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "23012de3-4933-417a-94d5-f07a25d1146f")
-		(property "Reference" "VD6"
-			(at 112.522 30.988 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "CDBA3100-HF"
-			(at 97.79 27.94 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 112.395 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CDBA340-HF%20Thru193640.%20CDBA3100-HF%20RevB.pdf"
-			(at 116.84 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 116.84 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8a024bec-2453-4334-9f8a-61db5030b85b")
-		)
-		(pin "2"
-			(uuid "a15f88fc-cffe-4c1e-8f21-660a77a602c6")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "VD6")
 					(unit 1)
 				)
 			)
@@ -14295,6 +13497,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VBUS")
+		(at 109.22 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3ed33761-2ad1-4d1c-8e87-256aa635c5be")
+		(property "Reference" "#PWR04"
+			(at 109.22 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 105.664 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 109.22 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0a8447e-1083-4970-9dee-f0dec0828b69")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 161.29 46.99 0)
 		(unit 1)
@@ -14543,7 +13810,7 @@
 			)
 		)
 		(property "Value" "+3.3VP"
-			(at 162.814 43.942 90)
+			(at 162.814 43.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15745,7 +15012,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 53.34 144.78 90)
+		(at 54.61 144.78 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15753,7 +15020,7 @@
 		(dnp no)
 		(uuid "5bb11065-21a4-432a-8ddf-65984d740841")
 		(property "Reference" "R15"
-			(at 59.69 147.32 0)
+			(at 64.008 145.034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15762,7 +15029,7 @@
 			)
 		)
 		(property "Value" "1"
-			(at 57.15 146.05 0)
+			(at 58.928 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15771,7 +15038,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 53.34 146.558 90)
+			(at 54.61 146.558 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15780,7 +15047,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 53.34 144.78 0)
+			(at 54.61 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15789,7 +15056,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 53.34 144.78 0)
+			(at 54.61 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17366,7 +16633,7 @@
 		(dnp no)
 		(uuid "86a9bf5a-ec16-4f07-a4c2-4721d0c4b41d")
 		(property "Reference" "C17"
-			(at 46.99 144.526 0)
+			(at 41.402 143.764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17375,13 +16642,12 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 49.53 146.05 0)
+			(at 48.26 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
@@ -17630,73 +16896,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 96.52 34.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8ee7780c-84e1-49f9-9d9f-8e9d2a34c988")
-		(property "Reference" "#PWR026"
-			(at 96.52 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 96.52 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 96.52 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "76b36c68-6b5f-41c2-9837-ec9efea3c776")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x05_Female")
 		(at 64.77 64.77 0)
 		(mirror y)
@@ -17769,139 +16968,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 118.11 19.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90817a82-0aaf-4cba-a136-f43a3257f982")
-		(property "Reference" "#PWR04"
-			(at 118.11 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 118.11 13.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 118.11 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 118.11 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5cc48fc0-9d3b-4003-800b-be9b47e04c95")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 82.55 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "91f000ca-224c-40d7-8ae5-4bfdd741f1a9")
-		(property "Reference" "C25"
-			(at 82.296 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1"
-			(at 81.28 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 83.5152 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 82.55 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "317524c8-459f-4e35-ac4b-d035b8c8a37c")
-		)
-		(pin "2"
-			(uuid "00023a18-87ba-4a0f-b2f4-d325ff9f7c73")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -18039,72 +17105,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 109.22 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94ec25bb-5491-4a1c-8f81-cfec0874a5e4")
-		(property "Reference" "#PWR059"
-			(at 109.22 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 109.22 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 109.22 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 109.22 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "999a27ff-3f0d-45b1-b4d3-ee489cce3217")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -19193,72 +18193,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VPP")
-		(at 76.2 20.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a3d03b64-815e-42c8-b09c-2bcdc45fb63c")
-		(property "Reference" "#PWR025"
-			(at 76.2 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VPP"
-			(at 76.2 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.2 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VPP\""
-			(at 76.2 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "00606e49-1a95-4026-a41c-967b13cf7b6b")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "myLib8_sym:BP1361")
 		(at 40.64 152.4 0)
 		(unit 1)
@@ -19329,141 +18263,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 111.76 21.59 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a85a5370-1b61-4ac5-9633-f40bf20618a4")
-		(property "Reference" "L6"
-			(at 111.76 16.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "22u"
-			(at 111.76 19.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_Sunlord_SWPA4012S"
-			(at 111.76 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.76 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 111.76 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8c1fe247-461a-41ec-a451-2922e8fbf9bd")
-		)
-		(pin "1"
-			(uuid "e90a57bd-8360-40a6-91cb-138d915a3c81")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "L6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 120.65 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a975316a-ecaa-4c1d-b532-570f11c0645c")
-		(property "Reference" "C21"
-			(at 121.92 24.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "330uF"
-			(at 123.19 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
-			(at 121.6152 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 120.65 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa656f14-8591-40cb-a772-a6236da3cd4f")
-		)
-		(pin "2"
-			(uuid "b30a2619-8bab-43a9-a3eb-62b777e74907")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -20143,6 +18942,71 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
+		(at 49.53 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b7790a5a-0f07-4a0b-85c2-a03264f5b523")
+		(property "Reference" "#PWR03"
+			(at 49.53 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 52.832 39.624 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 49.53 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "637b1bce-1a77-4cca-bc71-2fa21b9866cc")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
 		(at 27.94 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20757,73 +19621,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 76.2 26.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bcbad5ec-725a-4962-9116-0880e6bcc26b")
-		(property "Reference" "C20"
-			(at 73.66 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470uF"
-			(at 74.93 31.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
-			(at 77.1652 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 76.2 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 76.2 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c44db85d-9a2b-45f5-ac5b-3993aaf92f92")
-		)
-		(pin "2"
-			(uuid "83949d15-34e6-47bc-82ac-1c2e64910f5e")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "C20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 220.98 55.88 0)
 		(unit 1)
@@ -20956,72 +19753,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "J11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 49.53 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c2d4c8b9-d0c8-47b9-b5bc-2fc59f97d4cb")
-		(property "Reference" "#PWR03"
-			(at 49.53 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 49.53 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 49.53 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cfc9eb71-3c0b-47a2-b807-2643b273c232")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -22317,6 +21048,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3VP")
+		(at 121.92 190.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "df7c3036-05c3-4c90-96f2-e5126ccce8ef")
+		(property "Reference" "#PWR06"
+			(at 123.19 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3VP"
+			(at 115.57 190.246 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 121.92 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e70db9db-a6e0-4a77-80f3-15d61560c78d")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L")
 		(at 63.5 128.27 90)
 		(unit 1)
@@ -22713,92 +21509,6 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Regulator_Switching:XL1509-5.0")
-		(at 96.52 24.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4158e26-e704-4514-a942-8a384b827015")
-		(property "Reference" "U2"
-			(at 96.52 13.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "XL1509-5.0"
-			(at 96.52 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias"
-			(at 96.52 15.748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1809050422_XLSEMI-XL1509-5-0E1_C61063.pdf"
-			(at 99.06 13.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Buck DC/DC Converter, 2A, 5V Output Voltage, 7-40V Input Voltage"
-			(at 96.52 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "b92c5804-790d-40fa-b6ff-137383ee1d6a")
-		)
-		(pin "8"
-			(uuid "8cc7aa4f-9267-460c-93d3-f72b94548765")
-		)
-		(pin "6"
-			(uuid "7977ac9f-562c-4ab2-a1d1-5484749732a9")
-		)
-		(pin "7"
-			(uuid "703ea811-f9b2-486b-8642-338f60328fcb")
-		)
-		(pin "2"
-			(uuid "c39337c5-295c-43fd-8394-347b704d6cd9")
-		)
-		(pin "5"
-			(uuid "c307a78b-3092-4ffb-b257-b290df24ecb7")
-		)
-		(pin "4"
-			(uuid "f5e55201-5b3c-4da6-aea4-d8bbf032f7af")
-		)
-		(pin "1"
-			(uuid "b912ff82-df56-4a15-9053-3378bb5bcc6a")
-		)
-		(instances
-			(project "Pistol_Camera_Driver"
-				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
-					(reference "U2")
 					(unit 1)
 				)
 			)
