@@ -5413,6 +5413,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 127) (xy 265.43 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13fed297-e559-404c-a31c-af254fc2cc67")
+	)
+	(wire
+		(pts
 			(xy 68.58 127) (xy 68.58 128.27)
 		)
 		(stroke
@@ -6183,6 +6193,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 123.19) (xy 266.7 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39e143b8-7aa9-49a8-bd35-5e0c332e9e5c")
+	)
+	(wire
+		(pts
 			(xy 200.66 140.97) (xy 204.47 140.97)
 		)
 		(stroke
@@ -6533,6 +6553,16 @@
 	)
 	(wire
 		(pts
+			(xy 267.97 132.08) (xy 265.43 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f316dc4-085a-490b-ada7-79d901d6a443")
+	)
+	(wire
+		(pts
 			(xy 29.21 66.04) (xy 27.94 66.04)
 		)
 		(stroke
@@ -6770,6 +6800,16 @@
 			(type default)
 		)
 		(uuid "5a48444f-5139-469f-ae48-1e1789373da8")
+	)
+	(wire
+		(pts
+			(xy 267.97 129.54) (xy 265.43 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a75527f-8887-4c26-80a1-2dd3d415a160")
 	)
 	(wire
 		(pts
@@ -7130,6 +7170,16 @@
 			(type default)
 		)
 		(uuid "6f6c11bd-4f88-49f0-b31a-edd73a0945a4")
+	)
+	(wire
+		(pts
+			(xy 266.7 124.46) (xy 265.43 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7025f3c2-b75e-454e-b00c-6f34498bfca9")
 	)
 	(wire
 		(pts
@@ -10113,6 +10163,28 @@
 			)
 		)
 	)
+	(global_label "TX"
+		(shape input)
+		(at 267.97 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "56713827-1e7f-46de-bbdc-72a1ca878f59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.1323 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "VarY"
 		(shape input)
 		(at 73.66 64.77 0)
@@ -10615,6 +10687,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RX"
+		(shape input)
+		(at 267.97 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c208a1e-81aa-48bc-8f67-bf9e1d32741e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.4347 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12066,7 +12160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 247.65 25.7048 0)
 			(effects
 				(font
@@ -16829,6 +16923,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 266.7 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8b086e7a-57fe-4034-b84c-6ce3c4bf74f6")
+		(property "Reference" "#PWR08"
+			(at 266.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 270.51 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 266.7 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "532c5998-ffc3-4a26-b3e7-749804c643c4")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 157.48 46.99 0)
 		(unit 1)
@@ -17670,7 +17829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 265.43 75.2348 0)
 			(effects
 				(font
@@ -19291,8 +19450,8 @@
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 144.145 50.8 0)
+		(property "Value" "RY3430"
+			(at 144.272 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19615,6 +19774,147 @@
 			(project "Pistol_Camera_Driver"
 				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
 					(reference "M1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 266.7 127 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bca46c90-b6af-4a6f-bb12-9e64f4775a11")
+		(property "Reference" "#PWR012"
+			(at 273.05 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 271.78 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 266.7 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "809e3470-53d1-4f1e-9961-ed03ee7b8c7d")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x04_Female")
+		(at 260.35 127 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bcf22ffb-3bde-4ad8-b573-6949df230b9d")
+		(property "Reference" "J10"
+			(at 260.35 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "I2C"
+			(at 261.62 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 260.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 260.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 260.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f43ea73b-fb4c-45b3-9b6e-3505055eddc3")
+		)
+		(pin "2"
+			(uuid "70aec408-94cc-4015-9fe5-1d0bcab45537")
+		)
+		(pin "3"
+			(uuid "c626f1b7-af8a-4c98-8c75-664d906f13bb")
+		)
+		(pin "4"
+			(uuid "e8eeefb9-2d44-42d1-88b3-e5a45e262c15")
+		)
+		(instances
+			(project "Pistol_Camera_Driver"
+				(path "/c33d3390-68ba-44e9-93cb-8436dc3aa704"
+					(reference "J10")
 					(unit 1)
 				)
 			)
